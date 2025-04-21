@@ -20,7 +20,7 @@
 
         <!-- Calculation History -->
         <TextView
-            android:id="@+id/tvHistory"
+            android:id="@+id/History"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text=""
@@ -29,7 +29,7 @@
 
         <!-- Current Input -->
         <TextView
-            android:id="@+id/tvResult"
+            android:id="@+id/Result"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
